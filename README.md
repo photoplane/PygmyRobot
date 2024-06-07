@@ -44,7 +44,7 @@ Welcome to Pygmy Forth
 
 About to load RobotTof.fth
           _   
-       __|_|__    
+        _|_|__    
       |  o o  |   
      [|   !   |]   
     __|  <=>  |__   
