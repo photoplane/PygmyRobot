@@ -45,8 +45,7 @@ Welcome to Pygmy Forth
 About to load RobotTof.fth
            
 
-Bonjour tout le monde 
-
+Bonjour tout le monde  
 
 CODE ( . CR " + 1+ - * / DROP DUP SWAP OVER .S .RS R@ PUSH POP 2DUP 2DROP .H EMIT COMPILER FORTH WORDS 
 
