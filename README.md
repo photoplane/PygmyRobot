@@ -7,7 +7,7 @@ A tyny robot using PygmyForth.
 
 https://github.com/photoplane/PygmyRobotTof/assets/31778273/0b6892b9-5dae-40a4-bf02-31c8f226ba6b
 
-Step by step
+##Step by step
 
 First: 
 download and install Pygmy Forth,
