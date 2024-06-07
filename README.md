@@ -44,6 +44,7 @@ Welcome to Pygmy Forth
 
 About to load RobotTof.fth
            
+![robot](https://github.com/photoplane/PygmyRobotTof/assets/31778273/db7b0085-cf49-4101-9f9d-b2c8e7ade6ba)
 
 Bonjour tout le monde  
 
