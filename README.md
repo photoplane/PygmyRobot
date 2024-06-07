@@ -19,7 +19,10 @@ install the module for the vl53l1x
 sudo pip3 install sparkfun-qwiic-vl53l1x
 
 Things to do before going to Pygmy Forth
-python3 VL53L1X_Rasp.py to check the sensor
+
+python3 VL53L1X_Rasp.py 
+
+to check the sensor
 
 Download the PygmyRobotTof-main.zip file
 
