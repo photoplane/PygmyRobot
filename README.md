@@ -1,5 +1,5 @@
 # PygmyRobot
-A tyny robot using PygmyForth.
+A tiny robot using PygmyForth.
 
 ![pygmy](https://github.com/photoplane/PygmyRobotTof/assets/31778273/2e7f9684-4f8f-4a17-907e-76c8bf4ab14a)
 
