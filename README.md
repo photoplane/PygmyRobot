@@ -26,6 +26,25 @@ to check the sensor
 
 Download the PygmyRobotTof-main.zip file
 
+pi@raspberrypi:~ $ unzip PygmyRobotTof-main.zip 
+
+pi@raspberrypi:~ $ cd PygmyRobotTof-main/
+
+pi@raspberrypi:~/PygmyRobotTof-main $ python3 VL53L1X_Rasp.py 
+
+Inialisation du telemetre VL53L1X.
+
+pi@raspberrypi:~/PygmyRobotTof-main $ pygmy.sh RobotTof.fth
+
+pi@raspberrypi:~/PygmyRobotTof-main $ pygmy.sh RobotTof.fth
+
+Pygmy Forth version 17.10
+
+Welcome to Pygmy Forth 
+
+About to load RobotTof.fth
+
+
 
 
 
