@@ -43,15 +43,7 @@ Pygmy Forth version 17.10
 Welcome to Pygmy Forth 
 
 About to load RobotTof.fth
-          _   
-        _|_|__    
-      |  o o  |   
-     [|   !   |]   
-    __|  <=>  |__   
-   |  ^^^^^^^^   |  
-   |  | robot |  |   
-   |  |_______|  |     
-   |__|       |__|     
+           
 
 Bonjour tout le monde 
 
